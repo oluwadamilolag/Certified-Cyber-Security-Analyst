@@ -11,8 +11,7 @@
 - <a href="https://www.youtube.com/watch?v=MmjUHZoU4l4" />Setup Virtual Enviroment as a platform: Parrot OS</a>
 - <a href="https://www.youtube.com/watch?v=et2BGJCFuuA" />Setup Virtual Enviroment as a platform: Windows 10 </a>
 - <a href="" />Setup Virtual Enviroment as a platform: Metasploitable Machine</a>
-  <img src="https://drive.google.com/file/d/1QFVHtyj__IvEZ_81Sb02NmWUxLyGo9JW/view?usp=sharing" alt="Metasploitable Setup">
-
+  <img src="https://github.com/oluwadamilolag/Certified-Cyber-Security-Analyst/issues/1#issue-2132730942">
 ### Lab Network Configurations
 
 ### Configure IP Addresses in Machine
